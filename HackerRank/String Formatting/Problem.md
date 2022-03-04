@@ -21,12 +21,12 @@ A single integer denoting n.
 * 1 <= n <= 99 
 
 ### Sample Input
-''' 
+```
 17
-'''
+```
 
 ### Sample Output
-'
+```
     1     1     1     1
     2     2     2    10
     3     3     3    11
@@ -44,4 +44,4 @@ A single integer denoting n.
    15    17     F  1111
    16    20    10 10000
    17    21    11 10001
-'
+```
